@@ -1,11 +1,4 @@
 // Luqman Kabiru
-// 3/24/2025
-// CSC111
-// Problem Set #4
-//
-// This program will create a game that helps elementary students learn basic arithmetic, like addition,
-// subtraction, and multiplication.
-
 import java.util.*;
 // to be able to use all classes
 
