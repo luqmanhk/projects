@@ -1,11 +1,4 @@
 // Luqman Kabiru
-// 3/24/2025
-// CSC111
-// Problem Set #4
-//
-// This program will perform blackjack and play the game with the player until the dealer or player wins
-
-// MAKE SURE TO COMMIT AND WRITE COMMENTS AFTER EVERY LINE OF CODE
 import java.util.*;
 public class Blackjack {
     public static void main(String[] args) {
